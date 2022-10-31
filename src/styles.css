@@ -1,0 +1,12 @@
+html {
+  background-color: black;
+  color: green;
+  font-size: 16px;
+}
+.App {
+  font-family: monospace;
+}
+
+ul.check-list {
+  list-style-type: none;
+}
